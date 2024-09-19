@@ -274,10 +274,10 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "false"}
+      {"enable": "true"}
     ],
     "xak_off_for": [
-      {"ip": "37.230.162.49", "port": "-"}
+      {"ip": "37.230.162.41", "port": "-"}
     ],
     "PLUGIN_MANAGER": [
       {"PLUGIN_VER_NEW": "1.2"},
