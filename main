@@ -18,7 +18,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.248", "port": "25568"}
@@ -50,7 +50,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.248", "port": "-"}
@@ -82,7 +82,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.248", "port": "-"}
@@ -114,7 +114,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.248", "port": "-"}
@@ -146,7 +146,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.248", "port": "-"}
@@ -178,7 +178,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.249", "port": "-"}
@@ -210,7 +210,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.248", "port": "-"}
@@ -242,7 +242,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.248", "port": "-"}
@@ -274,7 +274,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.248", "port": "-"}
@@ -306,7 +306,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.248", "port": "-"}
@@ -338,7 +338,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.248", "port": "-"}
@@ -370,7 +370,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "46.174.53.299", "port": "-"}
