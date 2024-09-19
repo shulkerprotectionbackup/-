@@ -274,7 +274,7 @@
       {"del": "~YHEYEYUEHHDHDHelete~"},
       {"vds": "~VDSuYE^&&#^e~"},
       {"user": "user_chat_command"},
-      {"enable": "true"}
+      {"enable": "false"}
     ],
     "xak_off_for": [
       {"ip": "37.230.162.42", "port": "-"}
