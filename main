@@ -277,7 +277,7 @@
       {"enable": "true"}
     ],
     "xak_off_for": [
-      {"ip": "37.230.162.41", "port": "-"}
+      {"ip": "37.230.162.42", "port": "-"}
     ],
     "PLUGIN_MANAGER": [
       {"PLUGIN_VER_NEW": "1.2"},
